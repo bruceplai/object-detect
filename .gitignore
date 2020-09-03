@@ -1,1 +1,9 @@
-kitti_single
+# Training and test images
+kitti_single/
+
+# Weight files
+weights/
+
+#Training checkpoints
+ckpt/*
+
