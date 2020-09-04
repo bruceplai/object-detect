@@ -2,7 +2,7 @@
 kitti_single/
 
 # Weight files
-weights/
+weights/yolov4.weights
 
 #Training checkpoints
 ckpt/*
